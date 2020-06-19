@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header{
+	width: auto;
+	height: 300px;
+	background:linear-gradient(to right, red , yellow);
+
+}
+
+h1{
+	font-size: 1000%;
+	padding: 50px;
+	text-align: center;
+}
+
+a{
+}
+
+#button{
+	width: 30%;
+	height: 100%;
+	background: linear-gradient(to bottom , green , violet);
+	float: left;
+	padding-left: 30px;
+}
+
+#button2{
+	width: 30%;
+	height: 100%;
+	background: linear-gradient(to bottom , green , violet);
+	float: right;
+	padding-left: ;
+}
+#samllone{
+	font-size: 20%;
+	padding-left: 40%;
+	padding-right: 40%;
+	padding-top: 0.5%
+}
